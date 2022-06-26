@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Vashishtha</h1>
-<h4 align="center">A passionate frontend developer, with keen interest in open source, problem solving and Web development.</h4>
+<h4 align="center">A passionate frontend developer, with keen interest in open source, problem solving and Web development and an excellent academic background.</h4>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 
 <h3 align="left">Let's Connect:</h3>
