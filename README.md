@@ -5,7 +5,7 @@
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sakshi-vashishtha-9bb320207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-vashishtha-9bb320207/" height="30" width="40" /></a>
-<a href=""https://leetcode.com/sakshi_V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leetcode" height="30" width="40" /></a>  
+<a href=""https://leetcode.com/sakshi_V" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
